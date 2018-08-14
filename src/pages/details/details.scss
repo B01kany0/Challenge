@@ -1,0 +1,51 @@
+page-details {
+    .red1{
+        background-size: cover;
+       
+        background-image: url('../../assets/imgs/p1.jpg');
+        background-color:rgba(250, 50, 143, 0.74);
+    background-blend-mode: soft-light;
+    
+    }
+    .red{
+        
+        background-color: rgb(250,50,89);
+    }
+    h3{
+        text-align: right;
+    }
+    .white{
+        color: white;
+    }
+    .red{
+        background-color:rgba(250, 50, 90, 0);
+    }
+    .btn{
+
+        margin-left: 90px;
+         width: 200px;
+     }
+     .cir{
+         width: 100%;
+         height: 150px;
+         text-align: center;
+         font-size: 50px;
+     }
+     .ico{
+         background-color: rgba(245, 245, 220, 0.281);
+         width: 150px;
+         height: 150px;
+         margin: 0 auto;
+         border-radius: 100%;
+     }
+     #bee{
+         margin-top: 27%;
+     }
+     .move{
+         margin-top: 20%;
+     }
+
+     #space{
+         margin-right: 1em;
+     }
+}
