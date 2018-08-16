@@ -1,10 +1,14 @@
 page-home {
+    align-content: center;
+   align-items: center;
+   text-align: center;
 .red{
     background-color:rgb(250,50,89);
 }
 
 .red1{
     background-size: cover;
+    height: 100%;
    
     background-image: url('../../assets/imgs/p1.jpg');
     background-color:rgba(250, 50, 143, 0.74);
@@ -16,8 +20,9 @@ page-home {
 }
 .btn{
 
-   margin-left: 90px;
-    width: 200px;
+   //margin-left: 90px;
+    width: 50%;
+    bottom: -70%;
 }
 .right{
 margin-left: 10px;
@@ -25,12 +30,16 @@ margin-top: 40%;
 }
 .white{
     color: white;
+    margin: 0 auto;
+    position: relative;
 }
 .whit{
-    margin-left: 60px;
+    
+    margin:0 auto;
     color: white;
     font-size: 69pt;
     font-family: cursive;
+    bottom: -40px;
 
 }
 
@@ -41,4 +50,17 @@ h3{
 #space{
     margin-right: 0.1em;
 }
+.auto{
+    margin: 0 auto;
+}
+.white1{
+    color: white;
+    margin: 0 auto;
+    position: relative;
+    bottom: -40px;
+    font-size: 14pt;
+
+}
+
+
 }

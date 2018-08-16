@@ -1,4 +1,7 @@
 page-details {
+    align-content: center;
+   align-items: center;
+   text-align: center;
     .red1{
         background-size: cover;
        
@@ -16,15 +19,15 @@ page-details {
     }
     .white{
         color: white;
-        
+
     }
     .red{
         background-color:rgba(250, 50, 90, 0);
     }
     .btn{
 
-        margin-left: 90px;
-         width: 200px;
+       // margin-left: 90px;
+         width: 50%;
      }
      .cir{
          width: 100%;
