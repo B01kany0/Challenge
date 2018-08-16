@@ -4,10 +4,12 @@ page-details {
    text-align: center;
     .red1{
         background-size: cover;
+        height: 100%;
        
         background-image: url('../../assets/imgs/p1.jpg');
-        background-color:rgb(250, 50, 143);
-    background-blend-mode: soft-light;
+        background-color:rgba(250, 50, 143, 0.74);
+        background-blend-mode: soft-light
+    
     
     }
     .red{
@@ -28,6 +30,7 @@ page-details {
 
        // margin-left: 90px;
          width: 50%;
+         bottom: -40px;
      }
      .cir{
          width: 100%;
